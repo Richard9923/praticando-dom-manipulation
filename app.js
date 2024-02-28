@@ -1,2 +1,2 @@
-const titulo = getElementById("titulo");
+const titulo = document.getElementById("titulo");
 console.log(titulo);
